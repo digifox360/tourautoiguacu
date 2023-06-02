@@ -1,8 +1,7 @@
 {
- "background_color": "#FFFFFF",
  "display": "fullscreen",
- "start_url": "index.htm",
  "name": "Condomínio Alto Iguaçú",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
+ "background_color": "#FFFFFF",
  "theme_color": "#FFFFFF",
  "description": "Condomínio Alto Iguaçú em São José dos Pinhais - Pr"
 }
