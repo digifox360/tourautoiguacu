@@ -1,0 +1,33 @@
+#: locale=pt
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_67081960_7C55_53B7_41BD_4E2DC8D77702.text = CONDOMÍNIO ALTO IGUAÇÚ
+HotspotPanoramaOverlayTextImage_62B70651_7CD5_D199_41D2_ED118D2E7E3A.text = Mercardinho 24 horas
+HotspotPanoramaOverlayTextImage_62FB309A_7CDF_F28B_41DB_D4F2987DC124.text = Portaria 24 horas 
+
+## Media
+
+### Image
+imlevel_61D0BF6A_7CD5_4F8B_41C7_B2E8C63A602C.url = media/panorama_76A3861C_7C34_D188_4176_1A25B42377DE_HS_bdrkh3b4_pt.png
+imlevel_63D3DF32_7CDD_4F9B_41D8_E930FE82EE5E.url = media/panorama_76A3861C_7C34_D188_4176_1A25B42377DE_HS_v1bpak8l_pt.png
+imlevel_603D0E16_7C5C_D19A_41DC_C7393745CCEC.url = media/panorama_76AC4219_7C34_F189_41DD_CA8F424B25E6_HS_rug7zayf_pt.png
+
+### Title
+panorama_553B9A59_7C53_7196_41D5_EA96E4355667.label = 01
+panorama_57CA5A55_7C5C_D199_4152_C757033AB81A.label = 02
+panorama_5D22C73E_7CD5_5F8B_41DC_BB9EC7D427D0.label = 03
+panorama_5CD1D182_7CCC_B37B_41DD_9D41C8353AAC.label = 04
+panorama_76AEB9C1_7C34_B2F9_41D8_061BD2F3DF53.label = Entrada do portão
+panorama_76A3861C_7C34_D188_4176_1A25B42377DE.label = Foto Entrada Centro 04
+panorama_62DAE57B_7C3D_D389_41B3_8C935960CE04.label = Mercadinho
+panorama_76AC4219_7C34_F189_41DD_CA8F424B25E6.label = Rua
+
+## Tour
+
+### Description
+tour.description = Condomínio Alto Iguaçú em São José dos Pinhais - Pr
+
+### Title
+tour.name = Condomínio Alto Iguaçú
